@@ -23550,11 +23550,4 @@
 "title":"အညာသူ ကိုယ်တိုင်ရိုက်",
 "info":"",
 "time":"",
-"watch":""},
-{"link":"https://files1-en.zboxmm.com/zen-6c42379a.mp4",
-"down":"https://www.mediafire.com/file/0331fke4zz56ekq/The.Bhootnii.2025.HQ.720p.Hindi.WEB-DL.YK.Edit%2528CM%2529.mp4/file",
-"image":"https://thumbsnap.com/i/rpQ4taTN.jpg?0603",
-"title":"The Bhootnii (2025)",
-"info":"",
-"time":"",
 "watch":""}]
